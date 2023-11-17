@@ -1,3 +1,5 @@
+#Write a program named kaprekars_constant.py that takes in an integer from the user between 0 and 9999 and implements Kaprekar’s routine. Have your program output the sequence of numbers to reach 6174 and the number of iterations to get there.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
