@@ -1,3 +1,5 @@
+#Write a program named pig_latin.py that takes as input from the user one string containing multiple words each separated by a single space. Have your program convert the words to Pig Latin, then print both the original words and Pig Latin versions using the format shown below.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
