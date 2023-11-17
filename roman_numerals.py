@@ -1,3 +1,5 @@
+#Instead, the file you are given has several bugs! Find and fix all of them. When debugging, remember DRIFT: discover, reproduce, isolate, fix, and test. It's a good idea to come up with several test cases to test your code before you start making changes.
+
 # By submitting this assignment, I agree to the following:
 #   "Aggies do not lie, cheat, or steal, or tolerate those who do."
 #   "I have not given or received any unauthorized aid on this assignment."
