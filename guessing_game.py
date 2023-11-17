@@ -1,3 +1,5 @@
+#Write a python program named guessing_game.py to play a number guessing game. Have your program display a short message with instructions, then continually prompt the user to guess a number. With each wrong guess, let the user know if their guess is too high or too low. When the user correctly guesses the number, output the total number of valid guesses made. Write your program using at least two (2) functions and a try-except statement. 
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
