@@ -1,3 +1,5 @@
+#Using only the commands we have covered in class so far, write a program named tau_challenge.py that asks a user for a number of digits, and prints the number tau rounded to that many digits of precision. Do NOT use the round() function. Instead, get creative and think of another way!
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
