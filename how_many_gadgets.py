@@ -1,3 +1,5 @@
+#Assume a machine during its initial testing phase produces 10 gadgets a day. After 10 days of testing (starting on day 11), it begins to ramp up, producing 1 more gadget per day (11 gadgets on day 11, 12 on day 12, etc). On day 50 it reaches full speed, where it continues to run until on day 101 it stops producing gadgets. Write a program named how_many_gadgets.py that reads in a day (as a number) from the keyboard and reports the total number of gadgets produced from the initial testing phase up to and including the day entered.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
