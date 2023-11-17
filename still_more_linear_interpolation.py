@@ -1,4 +1,4 @@
-#rite a program named still_more_linear_interpolation.py that takes as input the time and location of a moving object at two points, then using linear interpolation calculates the position at several intermediate times. Your program needs to prompt the user to enter the time and position at two points, calculate the times and positions for five evenly spaced points, and print the results using nice formatting. Display the times using two (2) decimal places and the positions using three (3) decimal places.
+#Write a program named still_more_linear_interpolation.py that takes as input the time and location of a moving object at two points, then using linear interpolation calculates the position at several intermediate times. Your program needs to prompt the user to enter the time and position at two points, calculate the times and positions for five evenly spaced points, and print the results using nice formatting. Display the times using two (2) decimal places and the positions using three (3) decimal places.
 
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
