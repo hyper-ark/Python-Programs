@@ -1,3 +1,5 @@
+#Write a program named boolean_expressions.py that takes as input from the user Boolean values from the keyboard for variables a, b, and c. The program should also evaluate the following Boolean expressions using the variables a, b, and c. Use Boolean expressions; do NOT use if-elif-else blocks.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
