@@ -1,3 +1,5 @@
+#Download the file WeatherDataCLL.csv and write a program named weather_data.py that does the following
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
