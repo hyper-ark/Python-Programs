@@ -1,3 +1,5 @@
+#The response is provided in the program named sum_squares.py below. Unfortunately, this code does not work for many numbers, and for very large numbers the code is extremely slow. Modify the function named list_nums to produce correct output in a reasonable amount of computational time. Please comment out any input() statements before submitting. It's okay to have print() statements.
+
 # By submitting this assignment, I agree to the following:
 #   "Aggies do not lie, cheat, or steal, or tolerate those who do."
 #   "I have not given or received any unauthorized aid on this assignment."
