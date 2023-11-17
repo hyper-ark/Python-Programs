@@ -1,3 +1,5 @@
+#Modify your program from Activity 4 to compute the sum of the number of iterations required to reach 6174 (or 0000) using Kaprekar’s routine for all four-digit numbers, from 0000 to 9999. Name your file kaprekars_challenge.py.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
