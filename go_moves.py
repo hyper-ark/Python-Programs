@@ -1,3 +1,5 @@
+#The purpose of this activity is to get you used to using lists of lists, in a 2-D matrix-like format. Your team will create a program that sets up a small Go board and lets users place stones.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
