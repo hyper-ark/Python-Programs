@@ -1,3 +1,7 @@
+#You should pick good names for your variables.
+#You do not have to perform the entire computation in one line; you can use multiple lines to perform the computation if you want.
+#It is OK to introduce variables to hold values that are not a “final” value. For example, if you were computing the area of a circle, you might store the radius in one variable, then the radius squared in another variable, and then later multiply that by pi to compute the area.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
