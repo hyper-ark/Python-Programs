@@ -1,3 +1,5 @@
+#Write a program named pyramid_area1.py that will ask the user to input the length of one side of the prism (in meters) and the number of layers of the pyramid. Have your program calculate the total area of gold foil that is needed to cover the pyramid. Your program must use a loop, however you may NOT use lists, tuples, or dictionaries.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
