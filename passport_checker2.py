@@ -1,3 +1,5 @@
+#Write a program named passport_checker2.py that takes as input from the user a filename, reads the file, counts the number of valid passports based on the rules below, then writes the valid passport scans to a new file named valid_passports2.txt. Format your program’s output and your new file using the same format as Part A.
+
 # By submitting this assignment, I agree to the following:
 #   "Aggies do not lie, cheat, or steal, or tolerate those who do."
 #   "I have not given or received any unauthorized aid on this assignment."
