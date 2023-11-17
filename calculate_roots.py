@@ -1,3 +1,5 @@
+#Write a program named calculate_roots.py that takes as input the coefficients A, B, and C and outputs the roots of that equation.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
