@@ -1,3 +1,5 @@
+#Write a program named pixel_painter.py that takes as input a filename and a character, converts the contents of the file to pixel art, and writes the art to a new file of the same name but with the .txt extension. The first value in a line always corresponds to the number of light pixels.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
