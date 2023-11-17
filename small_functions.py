@@ -1,3 +1,5 @@
+#Write a program named small_functions.py that includes all of the parts shown below in one file. For all parts, include the function named as specified in your submission. Please comment out ALL input() statements before submitting.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
