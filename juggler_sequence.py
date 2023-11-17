@@ -1,3 +1,5 @@
+#Write a program named juggler_sequence.py that takes in a positive integer from the user, and computes the Juggler sequence, printing out all the numbers in the sequence, followed by a line stating how many iterations it took to reach the value 1.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
