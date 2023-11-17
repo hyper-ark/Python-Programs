@@ -1,3 +1,5 @@
+#Write a program named barcode_checker.py that takes as input a filename that contains many 13-digit barcodes. Have your program read the file, determine whether each barcode is valid, and write the valid barcodes to a new file named valid_barcodes.txt. Have your program output the total number of valid barcodes found using the example output below.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
