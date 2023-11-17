@@ -1,3 +1,5 @@
+#Write a program named howdy_whoop.py that takes as input from the user two positive integers. Output the numbers 1 to 100, each on its own line, unless the number is evenly divisible by one or both of the integers entered by the user. If the number is evenly divisible by the first integer, print Howdy. If it’s evenly divisible by the second integer, print Whoop. If it’s evenly divisible by both, print Howdy Whoop.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
