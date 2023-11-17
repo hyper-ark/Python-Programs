@@ -1,3 +1,5 @@
+#Now write a second program named pyramid_area2.py that performs the same calculation – but this time without a loop (hint: arithmetic progression).
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
