@@ -1,3 +1,6 @@
+#Part 1: Determines, for a time of 25 minutes, where the ISS will be (in terms of kilometers past Houston).
+#Part 2: Add to your program to determine, for a time of 300 minutes, where the ISS will be (in terms of kilometers past Houston).
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
