@@ -1,3 +1,5 @@
+#Write a program named more_linear_interpolation.py that will take two observed 3D positions at two points in time, and then will calculate the 3D position at a third point in time.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
