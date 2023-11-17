@@ -1,3 +1,5 @@
+#Create a program named word_puzzle.py (start with the template provided) that allows the user to check an answer for a given word arithmetic puzzle via the following steps:
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
