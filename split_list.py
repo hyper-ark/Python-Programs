@@ -1,3 +1,5 @@
+#Write a program named split_list.py that takes as input one string of a sequence of integers, converts them to a list, and determines where to split the list so that the sum of the numbers in the left portion is equal to the sum of numbers in the right portion. You may NOT reorder the numbers, use them in the given order. If the list cannot be split with equal sums, print a message to the screen.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
