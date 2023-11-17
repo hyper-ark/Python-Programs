@@ -1,3 +1,5 @@
+#Write a program named pretty_equation.py that takes as input the coefficients A, B, and C and outputs the quadratic equation in a nice format. Your program should not print the coefficient “1” or a term with a coefficient “0” and should replace plus signs (+) with minus signs (-) for negative coefficients. Include one space around the sign and the term.
+
 # By submitting this assignment, I agree to the following:
 # "Aggies do not lie, cheat, or steal, or tolerate those who do."
 # "I have not given or received any unauthorized aid on this assignment."
