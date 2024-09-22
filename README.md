@@ -1,5 +1,3 @@
-# ENGR 102
-Python Coding Assignments
+# Python Programs
 
-These are both individual and collaborative coding assignments to apply programming concepts and become fluent in Python.
-The instructions are commented at the start of every file.
+Here is a collection of my Python programs I have used to solve various problems and execute certain tasks.
